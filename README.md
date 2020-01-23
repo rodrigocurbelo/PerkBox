@@ -1,3 +1,12 @@
+# Overview
+This was a (timed) code challenge for Perkbox. I didn't particularly love the fact that it was timed as I didn't have time to actually show any creativity when it comes to UI/UX, etc. I was only able to complete the task without adding much of my fingerprint to it.. :/
+
+As it was timed I had to pay a lot more attention to actually finishing the task than setting up a proper linter, prettier, pre-commit hook, project structure, etc. As I would have otherwise, or even making more than one commit (which is a terrible practice!)
+
+I'd love a code challenge where I could actually show a bit more of what I'm about 😉
+
+Anyway, it was fun. Thanks for the opportunity, Perkbox!
+
 ## Table of Contents
 
 - [Running the project](#running-the-project)
